@@ -1,0 +1,13 @@
+/*----- Author CSS -----*/
+
+/*Intro*/
+body{
+  background:#fff;
+}
+
+.name{
+  color:#585858;
+  font-size:34px;
+  font-weight:400;
+  border-bottom:dashed 1px #979797;
+}
