@@ -2,8 +2,13 @@
 
 /*Intro*/
 body{
-  background:red;
+  background:#F2F4F9;
 }
+
+/* Grid */
+.container{width: 75em; margin: 0 auto;}
+
+
 
 .name{
   color:#585858;
