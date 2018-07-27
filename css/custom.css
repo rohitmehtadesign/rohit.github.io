@@ -8,7 +8,9 @@ body{
   /* font-family: 'Open Sans', sans-serif; */
   /*font-family: 'helvetica neue', helvetica, sans-serif;*/
   /*color: #ABBAC4; color: hsl(208, 22%, 65%);*/
-  font-family: 'Merriweather', serif;
+  /*font-family: 'Merriweather', serif;*/
+  font-family: 'Playfair Display', serif;
+
   color: #3B96EF;
 }
 a, a:visited{color: #333; text-decoration: none;}
@@ -47,6 +49,7 @@ a, a:visited{color: #333; text-decoration: none;}
   /*color: #3B96EF;*/
   color: #939393;
 }
+.new-web{font-style: italic; color: #555; font-size: 18px; padding: 40px 0;}
 .co-link{color:#3B96EF; font-weight: 400;}
 .co-link:hover{text-decoration:underline;}
 .git{ font-size:1.1em; font-weight: 400; margin: 3.1em 0 1em; color: #666;}
