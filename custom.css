@@ -49,6 +49,9 @@ a, a:visited{color: #333; text-decoration: none;}
   /*color: #3B96EF;*/
   color: #939393;
 }
+ul.case-study{list-style:none;}
+ul.case-study li{margin:0; padding:0;}
+ul.case-study li a{display:block; padding:10px 0 0 0; color:MidnightBlue;}
 .new-web{font-style: italic; color: #555; font-size: 18px; padding: 40px 0;}
 .co-link{color:#3B96EF; font-weight: 400;}
 .co-link:hover{text-decoration:underline;}
