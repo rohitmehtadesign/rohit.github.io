@@ -10,7 +10,7 @@ body{
 
   color: #333;
 }
-a, a:visited{color: midnightblue; text-decoration: none;}
+a, a:visited{color: #DF350D; text-decoration: none;}
 
 /* Grid */
 .container{ width: 90%; max-width: 75em; margin: 0 auto;/*-webkit-animation-duration: 2s;*/}
