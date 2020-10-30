@@ -8,7 +8,7 @@ body{
   font-family: 'Poppins', sans-serif;
 
 
-  color: #333;
+  color: #afafaf;
 }
 a, a:visited{color: #DF350D; text-decoration: none;}
 
@@ -23,7 +23,7 @@ a, a:visited{color: #DF350D; text-decoration: none;}
   /*border-bottom:dashed 1px #979797;*/
   margin: 1.5em 0 0em 0;
   
-  color: #333;
+  color: #afafaf;
 }
 .title{
   font-size: 1.3em;
@@ -44,7 +44,7 @@ a, a:visited{color: #DF350D; text-decoration: none;}
   /*color: hsl(208, 20%, 65%);*/
   /*color: #1ECDAC;*/
   /*color: #3B96EF;*/
-  color: #333;
+  color: #afafaf;
 }
 .case-study {list-style:none; margin:0; padding:0;}
 .case-study li {margin:0; padding:0;}
