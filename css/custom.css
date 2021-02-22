@@ -2,9 +2,9 @@
 
 /*Intro*/
 body{
-  background:#fff;
+  background: rgb(249,249,249);
+  background: linear-gradient(162deg, rgba(249,249,249,1) 0%, rgba(225,235,242,1) 100%);
   font-size: 100%;
-/*   font-family: 'Playfair Display', serif; */
   font-family: 'Poppins', sans-serif;
 
 
@@ -59,37 +59,6 @@ a, a:visited{color: #DF350D; text-decoration: none;}
 .git-block li{ display: inline-block; margin: 0em 0.5em 0 0;}
 .git-block li a{display: inline-block; color:#DF350D; /*width: 50px; height: 50px;*/}
 .git-block li a:hover{text-decoration: underline;}
-
-body{
-    background: linear-gradient(146deg, #95d78a, #4dadee, #b0b4f0, #f0dbb0);
-    background-size: 800% 800%;
-
-    -webkit-animation: sitebackground 30s ease infinite;
-    -moz-animation: sitebackground 30s ease infinite;
-    -o-animation: sitebackground 30s ease infinite;
-    animation: sitebackground 30s ease infinite;
-}
-
-@-webkit-keyframes sitebackground {
-    0%{background-position:0% 31%}
-    50%{background-position:100% 70%}
-    100%{background-position:0% 31%}
-}
-@-moz-keyframes sitebackground {
-    0%{background-position:0% 31%}
-    50%{background-position:100% 70%}
-    100%{background-position:0% 31%}
-}
-@-o-keyframes sitebackground {
-    0%{background-position:0% 31%}
-    50%{background-position:100% 70%}
-    100%{background-position:0% 31%}
-}
-@keyframes sitebackground {
-    0%{background-position:0% 31%}
-    50%{background-position:100% 70%}
-    100%{background-position:0% 31%}
-}
 
 /*.git-block li.email a{  background: url('../images/email_L.png') no-repeat;}
 .git-block li.dribbble a{ background: url('../images/dribbble_L.png') no-repeat;}
