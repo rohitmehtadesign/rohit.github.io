@@ -60,7 +60,7 @@ a, a:visited{color: #DF350D; text-decoration: none;}
 .git-block li a{display: inline-block; color:#DF350D; /*width: 50px; height: 50px;*/}
 .git-block li a:hover{text-decoration: underline;}
 
-body {
+body{
     background: linear-gradient(146deg, #95d78a, #4dadee, #b0b4f0, #f0dbb0);
     background-size: 800% 800%;
 
