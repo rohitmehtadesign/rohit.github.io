@@ -10,12 +10,18 @@ body{
 }
 a, a:visited{color: #DF350D; text-decoration: none;}
 
+@font-face {
+  font-family: Friz;
+  src: url(Friz Quadrata Bold.otf);
+}
+
 /* Grid */
 .container{ width: 90%; max-width: 75em; margin: 0 auto;/*-webkit-animation-duration: 2s;*/}
 
 
 
 .name{
+  font-family:Friz;
   font-size:3.5em;
   font-weight: bold;
   /*border-bottom:dashed 1px #979797;*/
