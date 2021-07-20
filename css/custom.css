@@ -22,13 +22,12 @@ a, a:visited{color: #DF350D; text-decoration: none;}
 
 
 .name{
-  font-family:Friz;
   font-size:3.5em;
   font-weight: bold;
   /*border-bottom:dashed 1px #979797;*/
   margin: 1.5em 0 0em 0;
-  
   color: #333;
+  font-family: 'DM Serif Display', serif;
 }
 .title{
   font-size: 1.3em;
