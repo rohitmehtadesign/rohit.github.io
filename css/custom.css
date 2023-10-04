@@ -7,7 +7,7 @@ body{
 
 
   color: #333;
-  background:#e4e6ea;
+  background:#fff;
 }
 a, a:visited{color: #DF350D; text-decoration: none;}
 
@@ -49,8 +49,8 @@ a, a:visited{color: #DF350D; text-decoration: none;}
 }
  .highlight{
   font-family: georgia,serif;
-  font-size: 1.125rem;
-  line-height: 1.75;
+  font-size: 1.45rem;
+  line-height: 1.85;
   background-color: rgb(255,242,204);
   color: rgb(49,49,49);
 }
